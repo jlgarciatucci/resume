@@ -1,5 +1,11 @@
 # Electrical Engineer / Data Scientist
 
+Experienced Electrical Engineer transitioning to Data Science with expertise in Python, SQL,
+data visualizations, R, and Java. Proactive problem solver with a passion for innovation and
+executing engineering projects. Pursuing a Master’s degree in Data Science with completed
+specializations in Applied Data Science with Python from the University of Michigan and the
+Google Data Analytics Professional Certificate.
+
 #### Technical Skills: Python, SQL, AWS, Bash, R, Java MATLAB
 
 ## Education
@@ -19,9 +25,14 @@
 - DFMEA and 8D process.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Weather Analysis (Python)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+https://github.com/jlgarciatucci/Weather-Analysis
+
+### Classifiaction Model - Cancer diagnostic Dataset (R)
+
+https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin
+
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 
@@ -33,6 +44,6 @@
 - 
 
 ## Publications
-1.
+1. Jose Luis Garcia Tucci, "Churn rate visualizations in Python" Medium.com, https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da
 
 - 
