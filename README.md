@@ -1,14 +1,9 @@
-# Electrical Engineer / Data Scientist
-
-Experienced Electrical Engineer transitioning to Data Science with expertise in Python, SQL,
-data visualizations, R, and Java. Proactive problem solver with a passion for innovation and
-executing engineering projects. Pursuing a Master’s degree in Data Science with completed
-specializations in Applied Data Science with Python from the University of Michigan and the
-Google Data Analytics Professional Certificate.
+![image](https://github.com/jlgarciatucci/resume/assets/98712473/1444060a-1438-4880-993f-f909596a6348)
 
 #### Technical Skills: Python, SQL, AWS, Bash, R, Java MATLAB
 
-## Education
+![image](https://github.com/jlgarciatucci/resume/assets/98712473/d5a7eed5-66c3-4ad2-b1f2-83d8d134915d)
+
 - M.S., Data Science	| UOC - Universitat Oberta de Catalunya (_2024 Expected_)
 - Google Data Analytics Professional Certificate | Google – Coursera (_September 2022_)
 - Specialization - Applied Data Science with Python | University of Michigan – Coursera (_July 2022_)									       		
@@ -39,22 +34,17 @@ https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin
 
 https://github.com/jlgarciatucci/Jump2Digital
 
+![image](https://github.com/jlgarciatucci/resume/assets/98712473/25e8defd-ee5e-457b-a77a-80b020ade843)
 
 ## Other Courses
 
-• Learning Path - Become a Python Developer – LinkedIn Learning - Completed Oct-2019
-
-• Learning Path - Advance Your Skills in Python– LinkedIn Learning - Completed Sept-2019
-
-• Learning Path - Become a Data Scientist – LinkedIn Learning - Completed Feb-2022
-
-• Course – Learning Java– LinkedIn Learning - Completed Mar-2022
-
-• Course – Docker for Data Scientist – LinkedIn Learning - Completed May-2022
-
-• Skill Path - Analyze Data with SQL Skill Path– Codecademy - Completed May-2022
-
-• Course – Introduction to NoSQL Databases with MongoDB– Coursera – Completed Jun-2022
+- Learning Path - Become a Python Developer – LinkedIn Learning - Completed Oct-2019
+- Learning Path - Advance Your Skills in Python– LinkedIn Learning - Completed Sept-2019
+- Learning Path - Become a Data Scientist – LinkedIn Learning - Completed Feb-2022
+- Course – Learning Java– LinkedIn Learning - Completed Mar-2022
+- Course – Docker for Data Scientist – LinkedIn Learning - Completed May-2022
+- Skill Path - Analyze Data with SQL Skill Path– Codecademy - Completed May-2022
+- Course – Introduction to NoSQL Databases with MongoDB– Coursera – Completed Jun-2022
 
 ## Publications
 1. Jose Luis Garcia Tucci, "Churn rate visualizations in Python" Medium.com, https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da
