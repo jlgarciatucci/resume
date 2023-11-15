@@ -15,7 +15,8 @@ Google Data Analytics Professional Certificate.
 - Master Electrical Engineering Industrial Installations	| Universitat Politecnica de Catalunya (_June 2013_)	 			        		
 - B.S., Electrical Engineering | Universidad Central de Venezuela (_December 2010_)
 
-## Work Experience
+![image](https://github.com/jlgarciatucci/resume/assets/98712473/3c10fc10-d47f-4b2d-8285-49ed60066a44)
+
 **Lead Discipline Engineer Electrical Department @ Technip Energies (_December 2022 - Present_)**
 - Helping in the digitalization of the department - Focus point on Power Query and Business analytics tools.
 - Lead Engineer for mutliple projects in Process Plants, oil and gas and others.
@@ -42,11 +43,17 @@ https://github.com/jlgarciatucci/Jump2Digital
 ## Other Courses
 
 • Learning Path - Become a Python Developer – LinkedIn Learning - Completed Oct-2019
+
 • Learning Path - Advance Your Skills in Python– LinkedIn Learning - Completed Sept-2019
+
 • Learning Path - Become a Data Scientist – LinkedIn Learning - Completed Feb-2022
+
 • Course – Learning Java– LinkedIn Learning - Completed Mar-2022
+
 • Course – Docker for Data Scientist – LinkedIn Learning - Completed May-2022
+
 • Skill Path - Analyze Data with SQL Skill Path– Codecademy - Completed May-2022
+
 • Course – Introduction to NoSQL Databases with MongoDB– Coursera – Completed Jun-2022
 
 ## Publications
