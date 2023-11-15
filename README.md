@@ -11,12 +11,12 @@
 
 ## Work Experience
 **Lead Discipline Engineer Electrical Department @ Technip Energies (_December 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Helping in the digitalization of the department - Focus point on Power Query and Business analytics tools.
+- Lead Engineer for mutliple projects in Process Plants, oil and gas and others.
 
 **Lead Engineer - Electrical Component Tower Internals Design @ GE Renewable Energy (_August 2017 - December 2022_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Lead Engineer in charge of the design and teams coordinations in Tower Internals for Wind Turines
+- DFMEA and 8D process.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
