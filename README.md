@@ -56,4 +56,6 @@ Google Data Analytics Professional Certificate.
 ## Publications
 1. Jose Luis Garcia Tucci, "Churn rate visualizations in Python" Medium.com, https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da
 
-- 
+![image](https://github.com/jlgarciatucci/resume/assets/98712473/62705f4c-f711-45bc-a9c9-4377ae7d32cc)
+
+https://github.com/jlgarciatucci/resume/assets/98712473/62705f4c-f711-45bc-a9c9-4377ae7d32cc.png
