@@ -1,4 +1,11 @@
-![image](https://github.com/jlgarciatucci/resume/assets/98712473/1444060a-1438-4880-993f-f909596a6348)
+# Electrical Engineer / Data Scientist
+
+Experienced Electrical Engineer transitioning to Data Science with expertise in Python, SQL,
+data visualizations, R, and Java. Proactive problem solver with a passion for innovation and
+executing engineering projects. Pursuing a Master’s degree in Data Science with completed
+specializations in Applied Data Science with Python from the University of Michigan and the
+Google Data Analytics Professional Certificate.
+
 
 #### Technical Skills: Python, SQL, AWS, Bash, R, Java MATLAB
 
@@ -22,21 +29,21 @@
 
 ## Projects
 ### Weather Analysis (Python)
-
-https://github.com/jlgarciatucci/Weather-Analysis
+- https://github.com/jlgarciatucci/Weather-Analysis
 
 ### Classifiaction Model - Cancer diagnostic Dataset (R)
-
-https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin
+- https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin
 
 
 ### Jump2Digital Hackahton 
+- https://github.com/jlgarciatucci/Jump2Digital
 
-https://github.com/jlgarciatucci/Jump2Digital
+  
 
 ![image](https://github.com/jlgarciatucci/resume/assets/98712473/25e8defd-ee5e-457b-a77a-80b020ade843)
 
-## Other Courses
+
+![image](https://github.com/jlgarciatucci/resume/assets/98712473/fddb4117-eb28-4b7c-9c2b-d768363f85a6)
 
 - Learning Path - Become a Python Developer – LinkedIn Learning - Completed Oct-2019
 - Learning Path - Advance Your Skills in Python– LinkedIn Learning - Completed Sept-2019
