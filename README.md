@@ -34,14 +34,20 @@ https://github.com/jlgarciatucci/Weather-Analysis
 https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin
 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Jump2Digital Hackahton 
+
+https://github.com/jlgarciatucci/Jump2Digital
 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+## Other Courses
 
-## Talks & Lectures
-- 
-- 
+• Learning Path - Become a Python Developer – LinkedIn Learning - Completed Oct-2019
+• Learning Path - Advance Your Skills in Python– LinkedIn Learning - Completed Sept-2019
+• Learning Path - Become a Data Scientist – LinkedIn Learning - Completed Feb-2022
+• Course – Learning Java– LinkedIn Learning - Completed Mar-2022
+• Course – Docker for Data Scientist – LinkedIn Learning - Completed May-2022
+• Skill Path - Analyze Data with SQL Skill Path– Codecademy - Completed May-2022
+• Course – Introduction to NoSQL Databases with MongoDB– Coursera – Completed Jun-2022
 
 ## Publications
 1. Jose Luis Garcia Tucci, "Churn rate visualizations in Python" Medium.com, https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da
