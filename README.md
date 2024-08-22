@@ -30,18 +30,18 @@ Google Data Analytics Professional Certificate.
 ![image](https://github.com/jlgarciatucci/resume/assets/98712473/5e59ed16-88fc-43d0-bc01-9c1bb4a2e2ef)
 
 ### Web APP Madrid Air Quality (R deployed in Shinyapps)
-- ![](https://jlgarciatucci.shinyapps.io/PRA_Ej3/)
-- ![](https://jlgarciatucci.shinyapps.io/PRA_Ej4/)
+- ![https://jlgarciatucci.shinyapps.io/PRA_Ej3/](https://jlgarciatucci.shinyapps.io/PRA_Ej3/)
+- ![https://jlgarciatucci.shinyapps.io/PRA_Ej4/](https://jlgarciatucci.shinyapps.io/PRA_Ej4/)
 
 ### Weather Analysis (Python)
-- ![](https://github.com/jlgarciatucci/Weather-Analysis)
+- ![https://github.com/jlgarciatucci/Weather-Analysis](https://github.com/jlgarciatucci/Weather-Analysis)
 
 ### Classifiaction Model - Cancer diagnostic Dataset (R)
-- ![](https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin)
+- ![https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin](https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin)
 
 
 ### Jump2Digital Hackahton 
-- ![](https://github.com/jlgarciatucci/Jump2Digital)
+- ![https://github.com/jlgarciatucci/Jump2Digital](https://github.com/jlgarciatucci/Jump2Digital)
 
   
 
@@ -60,5 +60,5 @@ Google Data Analytics Professional Certificate.
 
 ![image](https://github.com/jlgarciatucci/resume/assets/98712473/d19f071f-e0f6-44a1-b361-8250462c2327)
 
-1. Jose Luis Garcia Tucci, "Churn rate visualizations in Python" Medium.com, ![](https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da)
+1. Jose Luis Garcia Tucci, "Churn rate visualizations in Python" Medium.com, ![https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da](https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da)
 
