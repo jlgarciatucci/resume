@@ -30,7 +30,7 @@ Google Data Analytics Professional Certificate.
 ![image](https://github.com/jlgarciatucci/resume/assets/98712473/5e59ed16-88fc-43d0-bc01-9c1bb4a2e2ef)
 
 ### Web APP Madrid Air Quality (R deployed in Shinyapps)
-- [https://jlgarciatucci.shinyapps.io/PRA_Ej3/](https://jlgarciatucci.shinyapps.io/PRA_Ej3/)
+- <a href="https://jlgarciatucci.shinyapps.io/PRA_Ej3"> https://jlgarciatucci.shinyapps.io/PRA_Ej3/
 - [https://jlgarciatucci.shinyapps.io/PRA_Ej4/](https://jlgarciatucci.shinyapps.io/PRA_Ej4/)
 
 ### Weather Analysis (Python)
