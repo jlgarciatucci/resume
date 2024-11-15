@@ -1,4 +1,4 @@
-![image](https://github.com/jlgarciatucci/resume/assets/98712473/3e7fef79-d3e9-42c5-9913-85a38b6ecdf0)
+![image](https://github.com/jlgarciatucci/resume/img/headshot-modified.png)
 
 Experienced Electrical Engineer transitioning to Data Science with expertise in Python, SQL,
 data visualizations, R, and Java. Proactive problem solver with a passion for innovation and
