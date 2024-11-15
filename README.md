@@ -10,6 +10,7 @@ Google Data Analytics Professional Certificate.
 #### Technical Skills: Python, SQL, AWS, Bash, R, Java MATLAB
 
 ![image](https://github.com/jlgarciatucci/resume/assets/98712473/29875d41-035d-4d66-9a24-437f05653df3)
+
 |                |             |      |
 |----------------|-------------|------|
 |M.S., Data Science	| UOC - Universitat Oberta de Catalunya (_2025_) |     
