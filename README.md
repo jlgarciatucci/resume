@@ -11,7 +11,9 @@ Google Data Analytics Professional Certificate.
 
 ![image](https://github.com/jlgarciatucci/resume/assets/98712473/29875d41-035d-4d66-9a24-437f05653df3)
 
-- M.S., Data Science	| UOC - Universitat Oberta de Catalunya (_2024 Expected_)
+- M.S., Data Science	| UOC - Universitat Oberta de Catalunya (_2025 Expected_)
+- Microsoft Power BI Data Analyst | Microsoft – Coursera (_September 2024_)
+- Software Engineering Essentials | IBM – Coursera (_September 2024_)
 - Google Data Analytics Professional Certificate | Google – Coursera (_September 2022_)
 - Specialization - Applied Data Science with Python | University of Michigan – Coursera (_July 2022_)									       		
 - Master Electrical Engineering Industrial Installations	| Universitat Politecnica de Catalunya (_June 2013_)	 			        		
