@@ -12,10 +12,10 @@ Google Data Analytics Professional Certificate.
 ![image](https://github.com/jlgarciatucci/resume/assets/98712473/29875d41-035d-4d66-9a24-437f05653df3)
 
 - M.S., Data Science	| UOC - Universitat Oberta de Catalunya (_2025 Expected_)
-- Microsoft Power BI Data Analyst | Microsoft – Coursera (_September 2024_)
-- Software Engineering Essentials | IBM – Coursera (_September 2024_)
-- Google Data Analytics Professional Certificate | Google – Coursera (_September 2022_)
-- Specialization - Applied Data Science with Python | University of Michigan – Coursera (_July 2022_)									       		
+- [Microsoft Power BI Data Analyst | Microsoft – Coursera (_September 2024_)](https://coursera.org/share/bb85e5088132d0fe4cd5c154541fb4c0)
+- [Software Engineering Essentials | IBM – Coursera (_September 2024_)](https://www.credly.com/badges/37db5758-c53a-4293-89b1-5eb3663a7030/linked_in_profile)
+- [Google Data Analytics Professional Certificate | Google – Coursera (_September 2022_)](https://coursera.org/share/7042f23315e39f1451bde4af8e491458)
+- [Specialization - Applied Data Science with Python | University of Michigan – Coursera (_July 2022_)](https://coursera.org/share/e7222b61ba5764d05d19a9ac90e57981)									       		
 - Master Electrical Engineering Industrial Installations	| Universitat Politecnica de Catalunya (_June 2013_)	 			        		
 - B.S., Electrical Engineering | Universidad Central de Venezuela (_December 2010_)
 
@@ -63,4 +63,11 @@ Google Data Analytics Professional Certificate.
 ![image](https://github.com/jlgarciatucci/resume/assets/98712473/d19f071f-e0f6-44a1-b361-8250462c2327)
 
 1. Jose Luis Garcia Tucci, "Churn rate visualizations in Python" Medium.com, [https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da](https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da)
+
+![image](https://github.com/user-attachments/assets/552d10bd-765f-421a-91cb-6fd126cb769d)
+
+- Finalist Team in the Jump2Digital 2023 Hackaton - Barcelona
+- Top 10% Rank (61/4197) in August Qualifier 2022: Open Division AWS DeepRacer
+
+
 
