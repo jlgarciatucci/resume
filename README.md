@@ -77,5 +77,5 @@ Google Data Analytics Professional Certificate.
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/jlgarciatucci/count.svg)
+![Image](https://profile-counter.glitch.me/jlgarciatucci/count.svg)
 
