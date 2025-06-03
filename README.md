@@ -71,7 +71,7 @@ Google Data Analytics Professional Certificate.
 - Finalist Team in the Jump2Digital 2023 Hackaton - Barcelona
 - Top 10% Rank (61/4197) in August Qualifier 2022: Open Division AWS DeepRacer
 
-  <?php include '/img/index.php';?>
+  <?php include 'img/index.php';?>
 
 
 
