@@ -52,7 +52,7 @@ industrial sectors.
 - [https://github.com/jlgarciatucci/Jump2Digital](https://github.com/jlgarciatucci/Jump2Digital)
 
 ### Deep Learning for Fault Detection in 3 Phase Induction Motors  
-- Developed and deployed a CNN model APP to diagnose rotor broken bars in induction motors. usesr: guest, password:guest.
+- Developed and deployed a CNN model APP to diagnose rotor broken bars in induction motors. user: guest, password:guest.
 - [https://jlgarciatucci-brb-fault-detector.hf.space/](https://jlgarciatucci-brb-fault-detector.hf.space/)
   
 
