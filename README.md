@@ -1,19 +1,24 @@
-![image](https://github.com/jlgarciatucci/resume/assets/98712473/3e7fef79-d3e9-42c5-9913-85a38b6ecdf0)
+![image](https://github.com/user-attachments/assets/9b0fd10d-0bc0-456b-acdb-59991be95058)
 
-Experienced Electrical Engineer transitioning to Data Science with expertise in Python, SQL,
-data visualizations, R, and Java. Proactive problem solver with a passion for innovation and
-executing engineering projects. Pursuing a Master’s degree in Data Science with completed
-specializations in Applied Data Science with Python from the University of Michigan and the
-Google Data Analytics Professional Certificate.
+
+
+MSc in Data Science and Senior Electrical Engineer with over 15 years of experience in high-voltage substations,
+renewable energy, and industrial engineering projects (HV, MV, LV) across oil & gas, petrochemical, and power
+systems with a Master’s Degree in Data Science from Universitat Oberta de Catalunya (2025), specializing in machine
+learning, predictive analytics, data visualization, and geospatial analysis. Passionate about leveraging Python,
+R, SQL, and tools like Power BI, Tableau, and TensorFlow to drive data-driven decision-making in the energy and
+industrial sectors.
 
 
 #### Technical Skills: Python, SQL, AWS, Bash, R, Java MATLAB
 
-![image](https://github.com/jlgarciatucci/resume/assets/98712473/29875d41-035d-4d66-9a24-437f05653df3)
+![image](https://github.com/user-attachments/assets/e507d485-73e0-4ee4-8902-76d760521f7e)
+
 
 |                |             |      |
 |----------------|-------------|------|
-|M.S., Data Science	| UOC - Universitat Oberta de Catalunya (_2025_) |     
+|MSc., Data Science	| UOC - Universitat Oberta de Catalunya (_2025_) |   
+|Specialization - IBM - AI Developer Professional Certificate | IBM – Coursera (_2025_) | [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/83MI1OG8MNMA)		
 |Microsoft Power BI Data Analyst | Microsoft – Coursera (_2024_) | [Link](https://coursera.org/share/bb85e5088132d0fe4cd5c154541fb4c0)
 |Software Engineering Essentials | IBM – Coursera (_2024_) | [Link](https://www.credly.com/badges/37db5758-c53a-4293-89b1-5eb3663a7030/linked_in_profile)
 |Google Data Analytics Professional Certificate | Google – Coursera (_2022_) | [Link](https://coursera.org/share/7042f23315e39f1451bde4af8e491458)
@@ -21,7 +26,7 @@ Google Data Analytics Professional Certificate.
 |Master Electrical Engineering Industrial Installations	| Universitat Politecnica de Catalunya (_2013_) |      			        		
 |B.S., Electrical Engineering | Universidad Central de Venezuela (_2010_) |     
 
-![image](https://github.com/jlgarciatucci/resume/assets/98712473/4c04960f-ac08-4e43-9cf7-3e49395b4603)
+![image](https://github.com/user-attachments/assets/760f7ff3-d7cc-47de-bd66-7e245c038f6b)
 
 **Lead Discipline Engineer Electrical Department @ Technip Energies (_December 2022 - Present_)**
 - Helping in the digitalization of the department - Focus point on Power Query and Business analytics tools.
@@ -31,7 +36,7 @@ Google Data Analytics Professional Certificate.
 - Lead Engineer in charge of the design and teams coordinations in Tower Internals for Wind Turines
 - DFMEA and 8D process.
 
-![image](https://github.com/jlgarciatucci/resume/assets/98712473/5e59ed16-88fc-43d0-bc01-9c1bb4a2e2ef)
+![image](https://github.com/user-attachments/assets/5550c180-4c3c-4150-9d3a-8450c9061398)
 
 ### Web APP Madrid Air Quality (R deployed in Shinyapps)
 - <a href="https://jlgarciatucci.shinyapps.io/PRA_Ej3"> https://jlgarciatucci.shinyapps.io/PRA_Ej3/
@@ -43,16 +48,18 @@ Google Data Analytics Professional Certificate.
 ### Classifiaction Model - Cancer diagnostic Dataset (R)
 - [https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin](https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin)
 
-
 ### Jump2Digital Hackahton 
 - [https://github.com/jlgarciatucci/Jump2Digital](https://github.com/jlgarciatucci/Jump2Digital)
 
+### Deep Learning for Fault Detection in 3 Phase Induction Motors  
+- Developed and deployed a CNN model APP to diagnose rotor broken bars in induction motors. usesr: guest, password:guest.
+- [https://jlgarciatucci-brb-fault-detector.hf.space/](https://jlgarciatucci-brb-fault-detector.hf.space/)
   
 
-![image](https://github.com/jlgarciatucci/resume/assets/98712473/c13c7b87-e894-4e23-8b20-c6cc09184035)
+![image](https://github.com/user-attachments/assets/6bcbf6b5-71c9-404a-a8ba-b6e53f434f44)
+![image](https://github.com/user-attachments/assets/fc37b96d-f7ea-449c-ba89-98f23c05b700)
 
-
-![image](https://github.com/jlgarciatucci/resume/assets/98712473/449ea2a9-6918-489f-baf1-a5b5ccb29f1e)
+![image](https://github.com/user-attachments/assets/4fc5f345-84f3-47f1-b8ee-6d64fad41cec)
 
 - Learning Path - Become a Python Developer – LinkedIn Learning - Completed Oct-2019
 - Learning Path - Advance Your Skills in Python– LinkedIn Learning - Completed Sept-2019
@@ -62,13 +69,14 @@ Google Data Analytics Professional Certificate.
 - Skill Path - Analyze Data with SQL Skill Path– Codecademy - Completed May-2022
 - Course – Introduction to NoSQL Databases with MongoDB– Coursera – Completed Jun-2022
 
-![image](https://github.com/jlgarciatucci/resume/assets/98712473/d19f071f-e0f6-44a1-b361-8250462c2327)
+![image](https://github.com/user-attachments/assets/d1cc08fe-f535-4741-8f72-69784c165a6f)
 
 1. Jose Luis Garcia Tucci, "Churn rate visualizations in Python" Medium.com, [https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da](https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da)
 
-![image](https://github.com/user-attachments/assets/552d10bd-765f-421a-91cb-6fd126cb769d)
+![image](https://github.com/user-attachments/assets/204ae525-d9ee-4640-97c1-b84823327ab9)
 
-- Finalist Team in the Jump2Digital 2023 Hackaton - Barcelona
+- Boehringer Ingelheim Hackathon 2024 (NUWE) - Top Ten Finalist
+- Jump2Digital Hackathon 2023 (Data Science & AI) - Finalist
 - Top 10% Rank (61/4197) in August Qualifier 2022: Open Division AWS DeepRacer
 
   <?php include 'img/index.php';?>
