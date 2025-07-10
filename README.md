@@ -45,7 +45,7 @@ industrial sectors.
 ### Weather Analysis (Python)
 - [https://github.com/jlgarciatucci/Weather-Analysis](https://github.com/jlgarciatucci/Weather-Analysis)
 
-### Classifiaction Model - Cancer diagnostic Dataset (R)
+### Classification Model - Cancer diagnostic Dataset (R)
 - [https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin](https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin)
 
 ### Jump2Digital Hackahton 
