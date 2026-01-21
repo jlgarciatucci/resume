@@ -41,7 +41,7 @@ MSc in Data Science (UOC, 2025) and Senior Electrical Engineer with 15+ years of
 - https://jlgarciatucci.shinyapps.io/PRA_Ej4/
 
 ### Barcelona Rent Prices by Metro Station (R + Leaflet / Shiny)
-- (Project repo / demo link) _add if available_
+- [https://jlgarciatucci.shinyapps.io/Metro/](https://jlgarciatucci.shinyapps.io/Metro/)
 
 ### Weather Analysis (Python)
 - https://github.com/jlgarciatucci/Weather-Analysis
