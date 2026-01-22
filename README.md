@@ -8,14 +8,14 @@ MSc in Data Science (UOC, 2025) and Senior Electrical Engineer with 15+ years of
 
 |                |             |      |
 |----------------|-------------|------|
-| **MSc., Data Science** | UOC - Universitat Oberta de Catalunya (_2025_) | |
-| Specialization - **IBM - AI Developer Professional Certificate** | IBM – Coursera (_2025_) | [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/83MI1OG8MNMA) |
+| **MSc. Data Science** | UOC - Universitat Oberta de Catalunya (_2025_) | |
+| **Specialization - IBM - AI Developer Professional Certificate** | IBM – Coursera (_2025_) | [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/83MI1OG8MNMA) |
 | **Microsoft Power BI Data Analyst** | Microsoft – Coursera (_2024_) | [Link](https://coursera.org/share/bb85e5088132d0fe4cd5c154541fb4c0) |
-| Software Engineering Essentials | IBM – Coursera (_2024_) | [Link](https://www.credly.com/badges/37db5758-c53a-4293-89b1-5eb3663a7030/linked_in_profile) |
+| **Software Engineering Essentials** | IBM – Coursera (_2024_) | [Link](https://www.credly.com/badges/37db5758-c53a-4293-89b1-5eb3663a7030/linked_in_profile) |
 | **Google Data Analytics Professional Certificate** | Google – Coursera (_2022_) | [Link](https://coursera.org/share/7042f23315e39f1451bde4af8e491458) |
-| Specialization - **Applied Data Science with Python** | University of Michigan – Coursera (_2022_) | [Link](https://coursera.org/share/e7222b61ba5764d05d19a9ac90e57981) |
+| **Specialization - Applied Data Science with Python** | University of Michigan – Coursera (_2022_) | [Link](https://coursera.org/share/e7222b61ba5764d05d19a9ac90e57981) |
 | **Master Electrical Engineering – Industrial Installations** | Universitat Politècnica de Catalunya (_2013_) | |
-| **B.S., Electrical Engineering – Power Systems** | Universidad Central de Venezuela (_2011_) | |
+| **B.S. Electrical Engineering – Power Systems** | Universidad Central de Venezuela (_2011_) | |
 
 ![image](https://github.com/user-attachments/assets/760f7ff3-d7cc-47de-bd66-7e245c038f6b)
 
@@ -75,16 +75,16 @@ MSc in Data Science (UOC, 2025) and Senior Electrical Engineer with 15+ years of
 1. **Garcia Tucci, J.; Burriel-Valencia, J.; Sapena-Bañó; Martínez-Román, J.; Barrera, K.**  
    **Non-invasive diagnosis of broken rotor bars in induction motors using deep learning and GASF representations**.  
    Proceedings of the **6th International Electronic Conference on Applied Sciences**, 9–11 December 2025, MDPI: Basel, Switzerland.  
-   🔗 https://sciforum.net/paper/view/28130
+   🔗 [https://sciforum.net/paper/view/28130](https://sciforum.net/paper/view/28130)
    
 2. **Jose Luis Garcia Tucci.**  
    **Diagnóstico de fallas por rotura de barras en motores de inducción trifásicos mediante el uso de modelos de deep learning**.  
    Master’s Thesis, **Universitat Oberta de Catalunya (UOC)**, 2025.  
-   🔗 https://openaccess.uoc.edu/items/db3c1785-c06d-419d-b7f4-2b17f8b3a4ee
+   🔗 [https://openaccess.uoc.edu/items/db3c1785-c06d-419d-b7f4-2b17f8b3a4ee](https://openaccess.uoc.edu/items/db3c1785-c06d-419d-b7f4-2b17f8b3a4ee)
 
 3. **Jose Luis Garcia Tucci.** 
    **"Churn rate visualizations in Python"**, Medium.com  
-   🔗 https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da
+   🔗 [https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da](https://medium.com/@jlgarciatucci/churn-rate-visualizations-in-python-3016602633da)
 
 ![image](https://github.com/user-attachments/assets/204ae525-d9ee-4640-97c1-b84823327ab9)
 
