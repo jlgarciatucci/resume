@@ -37,25 +37,25 @@ MSc in Data Science (UOC, 2025) and Senior Electrical Engineer with 15+ years of
 ![image](https://github.com/user-attachments/assets/5550c180-4c3c-4150-9d3a-8450c9061398)
 
 ### Web APP Madrid Air Quality (R deployed in Shinyapps)
-- https://jlgarciatucci.shinyapps.io/PRA_Ej3
-- https://jlgarciatucci.shinyapps.io/PRA_Ej4/
+- [https://jlgarciatucci.shinyapps.io/PRA_Ej3](https://jlgarciatucci.shinyapps.io/PRA_Ej3)
+- [https://jlgarciatucci.shinyapps.io/PRA_Ej4/](https://jlgarciatucci.shinyapps.io/PRA_Ej4/)
 
 ### Barcelona Rent Prices by Metro Station (R + Leaflet / Shiny)
 - [https://jlgarciatucci.shinyapps.io/Metro/](https://jlgarciatucci.shinyapps.io/Metro/)
 
 ### Weather Analysis (Python)
-- https://github.com/jlgarciatucci/Weather-Analysis
+- [https://github.com/jlgarciatucci/Weather-Analysis](https://github.com/jlgarciatucci/Weather-Analysis)
 
 ### Classification Model - Cancer diagnostic Dataset (R)
-- https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin
+- [https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin](https://github.com/jlgarciatucci/R-Data-Science-Breast-Cancer-Wisconsin)
 
 ### Jump2Digital Hackathon
-- https://github.com/jlgarciatucci/Jump2Digital
+- [https://github.com/jlgarciatucci/Jump2Digital](https://github.com/jlgarciatucci/Jump2Digital)
 
 ### Deep Learning for Fault Detection in 3 Phase Induction Motors (BRB Fault Detector)
-- Developed and deployed a CNN app to diagnose **broken rotor bars** from stator current signals using **GASF** encoding and deep learning.
-- Live demo (Hugging Face Space): https://jlgarciatucci-brb-fault-detector.hf.space/ (user: `guest`, password: `guest`)
-- 📄 Related publication (MDPI / Sciforum): https://sciforum.net/paper/view/28130
+- Developed and deployed a **CNN** app to diagnose **broken rotor bars** from stator current signals using **GASF** encoding and deep learning.
+- Live demo (Hugging Face Space): [BRB Fault Detector](https://jlgarciatucci-brb-fault-detector.hf.space/ (user: `guest`, password: `guest`))
+- 📄 Related publication (MDPI / Sciforum): [https://sciforum.net/paper/view/28130](https://sciforum.net/paper/view/28130)
 
 ![image](https://github.com/user-attachments/assets/6bcbf6b5-71c9-404a-a8ba-b6e53f434f44)
 ![image](https://github.com/user-attachments/assets/fc37b96d-f7ea-449c-ba89-98f23c05b700)
@@ -72,7 +72,7 @@ MSc in Data Science (UOC, 2025) and Senior Electrical Engineer with 15+ years of
 
 ![image](https://github.com/user-attachments/assets/d1cc08fe-f535-4741-8f72-69784c165a6f)
 
-1. Garcia Tucci, J.; Burriel-Valencia, J.; Sapena-Bañó; Martínez-Román, J.; Barrera, K.  
+1. **Garcia Tucci, J.; Burriel-Valencia, J.; Sapena-Bañó; Martínez-Román, J.; Barrera, K.**  
    **Non-invasive diagnosis of broken rotor bars in induction motors using deep learning and GASF representations**.  
    Proceedings of the **6th International Electronic Conference on Applied Sciences**, 9–11 December 2025, MDPI: Basel, Switzerland.  
    🔗 https://sciforum.net/paper/view/28130
@@ -94,5 +94,4 @@ MSc in Data Science (UOC, 2025) and Senior Electrical Engineer with 15+ years of
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jlgarciatucci.jlgarciatucci)
 
-<!-- Removed invalid PHP include for GitHub rendering -->
-<!-- <?php include 'img/index.php';?> -->
+
