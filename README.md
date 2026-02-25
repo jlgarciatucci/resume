@@ -36,6 +36,9 @@ MSc in Data Science (UOC, 2025) and Senior Electrical Engineer with 15+ years of
 
 ![image](https://github.com/user-attachments/assets/5550c180-4c3c-4150-9d3a-8450c9061398)
 
+### Web APP Trekking APP (Mapping APP for GPX route visualization and creation)
+- [https://jlgarciatucci.shinyapps.io/PRA_Ej3](https://jlgarciatucci.github.io/trekkingapp/)
+
 ### Web APP Madrid Air Quality (R deployed in Shinyapps)
 - [https://jlgarciatucci.shinyapps.io/PRA_Ej3](https://jlgarciatucci.shinyapps.io/PRA_Ej3)
 - [https://jlgarciatucci.shinyapps.io/PRA_Ej4/](https://jlgarciatucci.shinyapps.io/PRA_Ej4/)
